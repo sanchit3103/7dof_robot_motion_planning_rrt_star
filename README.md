@@ -19,3 +19,14 @@ The GIF below shows the implementation of traditional RRT* algorithm for motion 
   <img src = "https://github.com/sanchit3103/7dof_robot_motion_planning_rrt_star/assets/4907348/237b3508-0b6a-4de5-954d-cea882ba5072" height="400"/>
 
 </p>
+
+<p align="justify">
+The GIF below shows the implementation of Informed RRT* algorithm for motion planning of 7 DOF Panda robot. 
+  
+</p>
+
+<p align="center">
+  
+  <img src = "https://github.com/sanchit3103/7dof_robot_motion_planning_rrt_star/assets/4907348/8665ed5a-5311-4ae8-a180-6fe15c321a46" height="400"/>
+
+</p>
