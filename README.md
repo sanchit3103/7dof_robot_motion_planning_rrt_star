@@ -16,6 +16,6 @@ The GIF below shows the implementation of traditional RRT* algorithm for motion 
 
 <p align="center">
   
-  <img src = "https://github.com/sanchit3103/manipulator_motion_planning_rrt-star/assets/4907348/7305de86-5261-40b4-9ec7-e78690aa49d6)" height="400"/>
+  <img src = "(https://github.com/sanchit3103/7dof_robot_motion_planning_rrt_star/assets/4907348/237b3508-0b6a-4de5-954d-cea882ba5072)" height="400"/>
 
 </p>
