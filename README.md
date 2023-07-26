@@ -30,3 +30,9 @@ The GIF below shows the implementation of Informed RRT* algorithm for motion pla
   <img src = "https://github.com/sanchit3103/7dof_robot_motion_planning_rrt_star/assets/4907348/8665ed5a-5311-4ae8-a180-6fe15c321a46" height="400"/>
 
 </p>
+
+## Details to run the code
+
+* <b> project_code.ipynb: </b> Notebook which includes the setting up of environment, plotting of configuration space and implementation of traditional RRT*, informed RRT* and Gaussian Sampling based RRT* algorithms.
+* <b> coppeliasim_env.py: </b> API to access CoppeliaSim environment.
+* <b> run_env.py: </b> Implementation of policy on Panda robot in CoppeliaSim environment using the API.
