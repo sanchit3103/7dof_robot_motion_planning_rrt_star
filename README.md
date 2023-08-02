@@ -1,4 +1,4 @@
-# Gaussain and Informed Sampling based RRT* Motion Planning on a 7DOF Robot
+# Gaussian and Informed Sampling based RRT* Motion Planning on a 7DOF Robot
 
 <p align="justify">
 This project focuses on an improvement over traditional RRT* for motion planning of higher DOF manipulator robots with an aim to reduce the memory and time consumption as well as overcome the slow convergence rate of RRT*. Random sampling in traditional RRT* is replaced by a heuristic based Gaussian sampler. Resultant path is optimized using path smoothing techniques. A comparative study between traditional RRT*, Informed RRT* and Gaussian Sampling based RRT* is also carried out to assess the convergence and quality. The shortest paths found by each method are shown in the results below.
